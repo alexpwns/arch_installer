@@ -19,7 +19,7 @@ apps=("essential" "Essentials" on
       "tmux" "Tmux" on
       "notifier" "Notification tools" on
       "git" "Git & git tools" on
-      "i3" "i3 wm" on
+      "i3" "i3 gaps" on
       "zsh" "The Z-Shell (zsh)" on
       "neovim" "Neovim" on
       "urxvt" "URxvt" on
