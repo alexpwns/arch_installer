@@ -24,8 +24,9 @@ apps=("essential" "Essentials" on
       "neovim" "Neovim" on
       "urxvt" "URxvt" on
       "firefox" "Firefox (browser)" on
-      "js" "JavaScript tooling" off
       "qutebrowser" "Qutebrowser (browser)" on
+      "bluetooth" "Bluetooth support" off
+      "js" "JavaScript tooling" off
       "vbox" "Virtualbox" off
       "lynx" "Lynx (browser)" off
       "js" "JavaScript tooling" off)

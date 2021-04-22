@@ -14,6 +14,12 @@ tools,lxappearance,Theme switcher for GTK+
 tools,xcape,Configure modifier keys to act as other keys
 tools,ripgrep,Faster alternative to grep
 tools,htop,Interactive process viewer
+bluetooth,pipewire,Low-level media framework
+bluetooth,pipewire-pulse,Pulse audio replacement
+bluetooth,bluez,Bluetooth protocol stack
+bluetooth,bluez-utils,Bluez utils
+bluetooth,blueman,Blueman bluetooth manager
+bluetooth,pavucontrol,Pavucontrol audio control
 tmux,tmux,Terminal multiplexer
 tmux,tmuxp,Configure tmux session + windows + panes via config files
 notifier,dunst,Notification system
